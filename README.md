@@ -15,4 +15,5 @@ Ideally, you'll also work in a [Virtual Environment](https://packaging.python.or
 3. Activate the virtual environment, run: `source env/bin/activate`
 4. Install required python packages by running `pip install -r requirements.txt`
 5. Open Jupyter notebook by running on your terminal: `jupyter notebook`
+In case there are errors related to web settings when running the notebook, try running `jupyter notebook --no-browser`
 
