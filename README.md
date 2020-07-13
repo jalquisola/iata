@@ -16,3 +16,8 @@ Ideally, you'll also work in a [Virtual Environment](https://packaging.python.or
 4. Install required python packages by running `pip install -r requirements.txt`
 5. Open Jupyter notebook by running on your terminal: `jupyter notebook`
 
+### Python Notebooks
+1. Data Exploration - check if the dataset has duplicates and missing values
+2. Feature Engineering - transforms event dataset into new dataset w/ new feature columns
+3. Model Generation - builds classification algorithm using the transformed dataset
+
